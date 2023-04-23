@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f0b01&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Pedro+Martins;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEF81C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Pedro+Martins;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Martins-pedro23&show_icons=true&count_private=true&hide_border=true&title_color=afa3ff4&icon_color=afa3ff4&text_color=9080ff&bg_color=0d1117" alt="Martins-pedro23 Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-pedro23&layout=compact&hide_border=true&title_color=afa3ff4&text_color=9080ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Martins-pedro23&show_icons=true&count_private=true&hide_border=true&title_color=FEF81C&icon_color=8f0b01&text_color=FEF81C&bg_color=0d1117" alt="Martins-pedro23 Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-pedro23&layout=compact&hide_border=true&title_color=FEF81C&text_color=FEF81C&bg_color=0d1117" />
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Martins-pedro23&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Martins-pedro23&bg_color=0d1117&color=FC031B&line=8f0b01&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 <br />
@@ -56,4 +56,4 @@
 
 ![Snake animation](https://github.com/Martins-pedr23/Martins-pedr23/blob/output/github-contribution-grid-snake.svg?=center=true&vCenter=true)
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f0b01&height=120&section=footer"/>
