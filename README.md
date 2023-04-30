@@ -53,7 +53,5 @@
 <br />
 <br />
 <br />
-
-![Snake animation](https://github.com/Martins-pedro23/Martins-pedro23/blob/output/github-contribution-grid-snake.svg?=center=true&vCenter=true)
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f0b01&height=120&section=footer"/>
