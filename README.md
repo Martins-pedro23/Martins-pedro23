@@ -13,11 +13,6 @@
 <br />
 <br />
 <br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Martins-pedro23&bg_color=0d1117&color=FC031B&line=8f0b01&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-<br />
 <br />
 
 <p align="center">
